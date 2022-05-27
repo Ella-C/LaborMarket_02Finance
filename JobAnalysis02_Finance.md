@@ -26,82 +26,82 @@
 
 ## 城市分布
 
-![geographicalOverview](IMG1/Rplot01_geoview.jpg){width="640"}
+![geographicalOverview](Rplot01_geoview.jpg)
 
 ## 公司行业
 
-![directors](IMG1/Rplot02_directors.png)
+![directors](Rplot02_directors.png)
 
-![managers](IMG1/Rplot02_managers.png)
+![managers](Rplot02_managers.png)
 
-![accountants](IMG1/Rplot02_accountants.png)
+![accountants](Rplot02_accountants.png)
 
-![cashier](IMG1/Rplot02_cashier.png)
+![cashier](Rplot02_cashier.png)
 
-![analyst](IMG1/Rplot02_analyst.png)
+![analyst](Rplot02_analyst.png)
 
 ## 公司规模
 
-![directors](IMG1/Rplot03_directors.png)
+![directors](Rplot03_directors.png)
 
-![managers](IMG1/Rplot03_managers.png)
+![managers](Rplot03_managers.png)
 
-![accountants](IMG1/Rplot03_accountants.png)
+![accountants](Rplot03_accountants.png)
 
-![cashier](IMG1/Rplot03_cashier.png)
+![cashier](Rplot03_cashier.png)
 
-![analyst](IMG1/Rplot03_analyst.png)
+![analyst](Rplot03_analyst.png)
 
 ## 公司类型
 
-![directors](IMG1/Rplot04_directors.png)
+![directors](Rplot04_directors.png)
 
-![managers](IMG1/Rplot04_managers.png)
+![managers](Rplot04_managers.png)
 
-![accountants](IMG1/Rplot04_accountants.png)
+![accountants](Rplot04_accountants.png)
 
-![cashier](IMG1/Rplot04_cashier.png)
+![cashier](Rplot04_cashier.png)
 
-![analyst](IMG1/Rplot04_analyst.png)
+![analyst](Rplot04_analyst.png)
 
 ## 经验学历
 
-![directors](IMG1/Rplot05_directors.png)
+![directors](Rplot05_directors.png)
 
-![managers](IMG1/Rplot05_managers.png)
+![managers](Rplot05_managers.png)
 
-![accountants](IMG1/Rplot05_accountants.png)
+![accountants](Rplot05_accountants.png)
 
-![cashier](IMG1/Rplot05_cashier.png)
+![cashier](Rplot05_cashier.png)
 
-![analyst](IMG1/Rplot05_analyst.png)
+![analyst](Rplot05_analyst.png)
 
-![education](IMG1/Rplot05_education.png)
+![education](Rplot05_education.png)
 
 ## 任职要求
 
-![directors](IMG1/Rplot06_directors.png)
+![directors](Rplot06_directors.png)
 
-![managers](IMG1/Rplot06_managers.png)
+![managers](Rplot06_managers.png)
 
-![accountants](IMG1/Rplot06_accountants.png)
+![accountants](Rplot06_accountants.png)
 
-![cashier](IMG1/Rplot06_cashier.png)
+![cashier](Rplot06_cashier.png)
 
-![analyst](IMG1/Rplot06_analyst.png)
+![analyst](Rplot06_analyst.png)
 
 ## 薪酬水平
 
-![directors](IMG1/Rplot07_directors.png)
+![directors](Rplot07_directors.png)
 
-![managers](IMG1/Rplot07_managers.png)
+![managers](Rplot07_managers.png)
 
-![accountants](IMG1/Rplot07_accountants.png)
+![accountants](Rplot07_accountants.png)
 
-![cashier](IMG1/Rplot07_cashier.png)
+![cashier](Rplot07_cashier.png)
 
-![analyst](IMG1/Rplot07_analyst.png)
+![analyst](Rplot07_analyst.png)
 
 ## 福利待遇
 
-![benefits](IMG1/Rplot08_benefits.png)
+![benefits](Rplot08_benefits.png)
